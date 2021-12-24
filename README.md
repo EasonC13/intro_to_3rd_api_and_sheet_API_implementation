@@ -3,8 +3,8 @@
 
 ## 如何使用？
 
-### 1. 點我下載課程
-[https://github.com/EasonC13/intro_to_3rd_api_and_sheet_API_implementation/archive/refs/heads/main.zip]
+### 1. 點我下載課程[https://github.com/EasonC13/intro_to_3rd_api_and_sheet_API_implementation/archive/refs/heads/main.zip]
+或於此連結下載 https://github.com/EasonC13/intro_to_3rd_api_and_sheet_API_implementation/archive/refs/heads/main.zip
 
 ### 2. 執行對應系統的啟動
 這樣即可於 Jupyter Notebook 打開課程
