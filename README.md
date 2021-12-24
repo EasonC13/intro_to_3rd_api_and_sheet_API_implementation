@@ -14,7 +14,7 @@
 ### 0. 安裝 Anaconda 與 Jupyter Notebook
 
 Anaconda 官方網站：https://www.anaconda.com/products/individual
-[安裝教學請點我](https://medium.com/python4u/anaconda%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-f7dae6454ab6)
+<br>[安裝教學請點我](https://medium.com/python4u/anaconda%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-f7dae6454ab6)
 
 ### 1. 點我下載課程[https://github.com/EasonC13/intro_to_3rd_api_and_sheet_API_implementation/archive/refs/heads/main.zip]
 或於此連結下載 https://github.com/EasonC13/intro_to_3rd_api_and_sheet_API_implementation/archive/refs/heads/main.zip
