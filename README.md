@@ -1,4 +1,5 @@
-# 第三方 API 服務介紹及 Google Sheet API 串接實作（自主學習線上課程）
+# 第三方 API 服務介紹及 Google Sheet API 串接實作
+> 此為自主學習線上課程
 
 ## 如何使用？
 
