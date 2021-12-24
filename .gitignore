@@ -1,0 +1,3 @@
+.ipynb_check*
+old/*
+__pycache__/
