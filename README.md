@@ -13,6 +13,8 @@
 
 ### 0. 安裝 Anaconda 與 Jupyter Notebook
 
+> 請使用 Python 3.7 以上的版本
+
 Anaconda 官方網站：https://www.anaconda.com/products/individual
 <br>[安裝教學請點我](https://medium.com/python4u/anaconda%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-f7dae6454ab6)
 
