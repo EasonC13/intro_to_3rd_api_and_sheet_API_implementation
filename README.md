@@ -1,13 +1,22 @@
 # 第三方 API 服務介紹及 Google Sheet API 串接實作
 > 此為自主學習線上課程
 > 預計完成時間：60 分鐘
-
 ## 學習目標
-知道常見的第三方 API 服務，且有能力自行串接 Google Sheet API 在自己的 Python 應用程式中
+知道串接第三方服務的便利性及重要性，且有能力自行串接 Google Sheet API 在自己的 Python 應用程式中
+
+## 課程介紹
+填寫過 Google 表單嗎？這些數據會被匯出到 Google Sheet 上。<br>
+除此之外，多數企業的數據也都使用 Excel 處理。<br>
+上完這堂課後，你不僅會學會 API 的知識，更會具備使用 Python 處理 Google Sheet 上的資料的能力。<br>
+讓你能夠將繁瑣冗長的 Google Sheet 操作、確認流程，使用 Python 程式碼自動化。<br>
 
 ## 學習條件：
 修過至少 2 學分或 12 小時之 Python 程式設計者。<br>
 即理解 Python 基礎語法，想要學習如何串接 Google 第三方服務的同學。<br>如果了解 Pandas 基礎操作佳，但不懂也沒關係
+
+## 系統需求
+請使用 Python 3.7 以上的版本<br>
+gspread version: 4.0.1
 
 ## 如何使用？
 

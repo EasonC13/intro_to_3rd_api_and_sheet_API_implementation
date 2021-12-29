@@ -27,8 +27,8 @@ def hint_get_new_york_time():
 
 def answer_get_new_york_time():
     print("""#最佳做法
-def get_new_york_time():
-    return requests.get("http://worldtimeapi.org/api/timezone/America/New_York").json()""")
+response = requests.get("http://worldtimeapi.org/api/timezone/America/New_York")
+new_york_time = response.json()""")
 
 def hint_check_account_is_finish():
     print("""'email in df["你的信箱"]' 無法正確得到結果，因為 df["你的信箱"] 是 Series 資料型別，因此要轉換為 list 才能進行檢查""")
